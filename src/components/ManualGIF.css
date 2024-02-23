@@ -1,0 +1,18 @@
+.manual_gif{
+    background-color: rgb(76, 206, 76);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 30px;
+    padding:30px;
+    gap:20px;
+    align-items: center;
+}
+.manual_gif button{
+ padding:19px 15px;
+ font:15px;
+ width:50%;
+ background-color: yellow;
+ border-radius: 20px;
+ cursor: pointer;
+}
